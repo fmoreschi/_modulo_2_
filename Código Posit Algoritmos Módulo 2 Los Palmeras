@@ -114,18 +114,18 @@ plot(density(z1),type="b")
     
     ## Ejercicio 1: Designación
     
-    **Consigna:** Las ultimas 3 cifras del DNI son 364, crear una variable que tenga ese número
+    **Consigna:** Las ultimas 3 cifras del DNI son 603, crear una variable que tenga ese número
 
 ```{r}
 
-DNI <- 364
+DNI <- 603
 
 ```
 
-**Consigna:** Crear un vector del 1 al 364.
+**Consigna:** Crear un vector del 1 al 603.
 
 ```{r}
-lista_dni <- 1:364
+lista_dni <- 1:603
 lista_dni
 ```
 
@@ -154,11 +154,11 @@ Total
 
 ```{python}
 # --- Ejercicio 1 ---
-# Consigna: Crear una variable con las últimas 3 cifras del DNI (364)
-dni = 364
+# Consigna: Crear una variable con las últimas 3 cifras del DNI (603)
+dni = 603
 
-# Consigna: Crear un vector (lista) del 1 al 364
-# En Python, range(1, 364) genera números del 1 al 364
+# Consigna: Crear un vector (lista) del 1 al 603
+# En Python, range(1, 603) genera números del 1 al 603
 lista_dni = list(range(1, dni + 1))
 
 # --- Ejercicio 2 ---
